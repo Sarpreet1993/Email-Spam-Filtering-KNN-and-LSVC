@@ -1,4 +1,5 @@
-
+# Download dataset emails.csv
+https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
 
 # Email Spam Filtering using KNN and LSVC
 
